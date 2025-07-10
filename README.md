@@ -21,6 +21,8 @@ Target: scanme.nmap.org for ethical scanning
 
 
 **Workflow**
+
+
 User Input
 Enter the hostname or IP, and a start & end port range.
 
@@ -46,6 +48,8 @@ Displays open ports on the screen and writes them to a .txt file.
 3)Why multi-threading speeds up port scans significantly
 
 4)Basics of network recon and ethical scanning practices
+
+
 
 
 Credits
