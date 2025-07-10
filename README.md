@@ -41,6 +41,8 @@ Displays open ports on the screen and writes them to a .txt file.
 
 
 **What I Learned!**
+
+
 1)How to use Python’s socket and threading modules
 
 2)What open ports mean and how they respond to TCP requests
