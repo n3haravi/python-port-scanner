@@ -1,5 +1,5 @@
 This project is a simple TCP port scanner built using Python’s socket and threading modules.
-It scans a given IP address or domain name over a range of ports and checks which ports are open.
+It scans a given IP address or domain name over a range of ports and checks which ports are open. 
 
 I focused on understanding and implementing:
 
